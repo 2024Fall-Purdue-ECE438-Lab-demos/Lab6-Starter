@@ -1,4 +1,4 @@
-# Lab04: Sampling and Reconstruction of Continuous-Time Signals
+# Lab6: Sampling and Reconstruction of Continuous-Time Signals
 
 ## Getting Started
 
